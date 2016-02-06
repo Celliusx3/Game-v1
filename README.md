@@ -3,6 +3,7 @@ A 2-player 2-d android game
 Still in development
 
 Instructions:
+
 1. Players have 5 different character: Civilian, Soldier, Knight, Captain, King
 
 2. Players have a diamond for one set of game.
